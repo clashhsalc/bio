@@ -60,7 +60,7 @@ b {
 }
 #liner::before {
   color: #ff6961;
-  content: "visitor@aryanweb.dev:~$";
+  content: "visitor@clashhsalc.dev:~$";
 }
 #liner.password::before {
   content: "Password:";
